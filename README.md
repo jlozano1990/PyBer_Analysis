@@ -4,6 +4,7 @@ The purpose of this analysis is to analyze the ride sharing data of our ride ser
 ## Results
 In general, our analysis shows that our ride service gets used more often in urban cities, that there are more drivers servicing urban cities, and that fares tend to be the lowest in urban cities.
 ![Scatter Chart](https://github.com/jlozano1990/PyBer_Analysis/blob/main/Analysis/Fig1.png)
+
 When we display the amount of rides based on city type in a box and whisker plot, we can see that urban cities tend to have the most rides.
 
 ![Box and Whisker ride count](https://github.com/jlozano1990/PyBer_Analysis/blob/main/Analysis/Fig2.png)
