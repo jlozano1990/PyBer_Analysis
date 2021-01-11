@@ -22,7 +22,7 @@ Looking at our results in a pie chart shows us all the same results in a format 
 ![Pie chart total drivers](https://github.com/jlozano1990/PyBer_Analysis/blob/main/Analysis/Fig7.png)
 
 Our final chart involved taking all of our data and providing a better look at the results over a specific time period. Throughout this time period, we can see the results match up with the previous charts provided. Urban cities have the highest number of fares collected while Rural cities have the least. If we look more closely at the results, we can see fluctations in fares between February and April.
-![Fare by city type line chart](https://github.com/jlozano1990/PyBer_Analysis/blob/main/Analysis/fig8.png)
+![Fare by city type line chart](https://github.com/jlozano1990/PyBer_Analysis/blob/main/Analysis/PyBer_Fare_Summary.png)
 ## Business Recommendations
 - We should look to hire more drivers in suburban and rural areas. This would bring the ride price down in those areas, which would most likely lead to more people using the service and more frequently.
 - We should look at the Fare by city results over a longer period of time to predict times of the year when demand for rides goes down. By doing this, we could prepare and offer special promotions or discounts for riders to use the service during low demand times, that way we won't see as many drops in usage rate and fares collected.
